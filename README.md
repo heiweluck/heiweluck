@@ -1,16 +1,25 @@
 ### Hi there 👋
+##自我介绍
+- 姓名：罗桂珊
+- 班级：19级信息安全（2）班
+- GitHud:[heiweluck](https://github.com/heiweluck)
+- 出生地：广东省汕头市
+- 性格：时而安静，时而活泼（我觉得还行）
+- 个人兴趣：
+  - 喜欢吹口琴，暑假在家每天都会边听歌边吹口琴，但是现在只会吹单音（。。。有时还会翻车），所以对于那些流畅！高级！华丽！的吹法，还一点的都不会。
+  - 是个五迷，喜欢听五月天的歌，从初中开始到现在已经8年了。到现在最喜欢的还是《知足》，所以立志努力用口琴完整流畅地吹出来这首歌
+  -  喜欢手工，瞎搞瞎弄，享受自己的小世界。
+- 有趣的经历：
+   - 大一的时候加入了一个口琴社团，第一次团建集体练习的时候，发现全部都是男生，然后来了一个女生，于是找她聊天想拉拢一下，结伴一起练，结果人家很含蓄地说有一个伙伴和她一起来（此时一个男生走了过来），然后我后面再也没有去过了（有点社恐）。
+![](https://img2020.cnblogs.com/blog/2531750/202109/2531750-20210905165401145-187257936.png)
 
-<!--
-**heiweluck/heiweluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##五个问题
+- 软件工程是一门怎么样的课程
+- 软件工程这门课程在应用上有哪些体现
+- 这个课程跟我目前所了解的 前端+后台 有什么关系吗
+- 一个软件完整的开发过程是怎样的
+- 如何进行软件测试与维护
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##想要收获的内容
+- 真正了解到软件工程这一门课程
+- 这门课程的实用性
